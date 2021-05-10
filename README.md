@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jargueta1
+- 👀 I’m interested in Data analysis and Machine Learning 
+- 🌱 I’m currently learning R, C# and Python 
+- 💞️ I’m looking to collaborate on any data centric project
+- 📫 How to reach me jorge.argueta314@gmail.com
